@@ -1,4 +1,4 @@
-package com.xtel.training.socket.client;
+package com.xtel.training.socket.TCP.client;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
